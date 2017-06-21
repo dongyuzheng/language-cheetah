@@ -1,6 +1,6 @@
 {
   "name": "language-cheetah",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Language support for Cheetah, the Python-Powered Template Engine",
   "keywords": [
     "language",
