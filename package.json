@@ -1,0 +1,21 @@
+{
+  "name": "language-cheetah",
+  "version": "0.0.0",
+  "description": "Language support for Cheetah, the Python-Powered Template Engine",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "homepage": "https://github.com/dongyuzheng/language-cheetah",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dongyuzheng/language-cheetah.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dongyuzheng/language-cheetah/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
